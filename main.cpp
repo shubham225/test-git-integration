@@ -12,7 +12,7 @@ cout<<"Enter the number of samples"<<endl;
 cin>>n;
 cout<<"Enter Signal Frequency"<<endl;
 cin>>sf;
-cout<<"Enter Sampling Frequency twice of signal frequency"<<endl;
+cout<<"Enter Sampling Frequency Twice of Signal Frequency"<<endl;
 cin>>samf;
 
 if(samf>=(2*sf))
