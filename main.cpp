@@ -6,6 +6,7 @@ int main()
 {
 float a[30];
 float amp, samf,sf, n, nsamf;
+cout<<"This Code is From New Branch"<<endl;
 cout<<"Enter Amplitude"<<endl;
 cin>>amp;
 cout<<"Enter the number of samples"<<endl;
